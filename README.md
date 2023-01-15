@@ -1,5 +1,5 @@
 # T20 World Cup 2022 Analysis
-This repository contains the Analysis of T20 World Cup 2022.
+This repository contains the Analysis of T20 World Cup 2022 using Python along with Pandas & Plotly.
 
 ## Summarization of my Analysis:
 1. England won the most number of matches
