@@ -1,6 +1,10 @@
 # T20 World Cup 2022 Analysis
 This repository contains the Analysis of T20 World Cup 2022 using Python along with Pandas & Plotly.
 
+## Prerequisites
+1. Python
+2. Google Colab
+
 ## Summarization of my Analysis:
 1. England won the most number of matches
 2. Virat Kohli scored highest in the most number of matches
