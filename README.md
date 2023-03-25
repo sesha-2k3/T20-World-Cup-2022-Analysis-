@@ -14,3 +14,4 @@ This repository contains the Analysis of T20 World Cup 2022 using Python along w
 6. SCG was the best stadium to bat first
 7. SCG was the best stadium to defend the target in the World Cup
 8. The Optus Stadium was the best stadium to bowl first
+     
